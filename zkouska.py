@@ -1,0 +1,2 @@
+x = ahoj 
+print(x)

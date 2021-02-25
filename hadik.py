@@ -5,3 +5,5 @@ for i in range(5):
     a += b
 
 print(a)
+
+y = uprava
